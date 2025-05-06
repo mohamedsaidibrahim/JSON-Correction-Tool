@@ -1,0 +1,13 @@
+{
+  "dir": "ltr",
+  "dashboard": {
+    "salesStatus": "Sales Status",
+    "returnSalesStatus": "Returns Status",
+    "monthlySales": "Monthly Sales",
+    "bestSellingProducts": "Top Selling Products",
+    "bestSellingCategories": "Top Product Categories",
+    "topCustomers": "Top Customers",
+    "topSalesPersons": "Top Performers",
+    "moreDetails": "View Details"
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "dir": "rtl",
+  "language": "العربية",
+  "common": {
+    "welcome": "مرحبًا",
+    "id": "الرقم",
+    "name": "الاسم",
+    "code": "الكود",
+    "shortName": "الاسم المختصر",
+    "actions": {
+      "discard": "تجاهل",
+      "save": "حفظ"
+    }
+  },
+  "bank": {
+    "pageTitle": "البنوك",
+    "bankName": "اسم البنك"
+  },
+  "treasury": {
+    "pageTitle": "الخزينة",
+    "treasuryName": "اسم الخزينة"
+  },
+  "adminPortal": {
+    "tax": {
+      "list": "قائمة الضرائب",
+      "operationalTagList": "قائمة ضريبة الوسم التشغيلي"
+    },
+    "contentManagement": {
+      "title": "العنوان",
+      "sefName": "اسم مُحسّن لمحركات البحث",
+      "isDraft": "مسودة",
+      "description": "الوصف",
+      "content": "المحتوى"
+    }
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "dir": "ltr",
+  "Welcome": "Welcome",
+  "Login": {
+    "PageName": "Login",
+    "Email": "Email",
+    "Password": "Password",
+    "RememberMe": "Remember Me",
+    "SignIn": "SignIn",
+    "MicroTecSignIn": "MicroTec SignIn"
+  }
+}

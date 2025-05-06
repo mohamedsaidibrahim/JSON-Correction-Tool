@@ -1,0 +1,12 @@
+{
+    "dir": "rtl",
+    "Welcome": "مرحبا",
+    "Login": {
+        "PageName": "تسجيل الدخول",
+        "Email": "البريد الالكترونى",
+        "Password": "كلمة السر",
+        "RememberMe": "تذكرنى",
+        "SignIn": "تسجيل الدخول",
+        "MicroTecSignIn": "تسجيل الدخول MicroTec "
+      }
+}

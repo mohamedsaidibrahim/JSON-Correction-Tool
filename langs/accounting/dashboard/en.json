@@ -1,0 +1,21 @@
+{
+  "dashboard": {
+    "accountTypes": "Account Types",
+    "bankCashEquivalents": "Bank, Cash and Equivalents",
+    "status": "Journal Status",
+    "journalSources": "Journal Sources",
+    "totalCash": "Total Cash",
+    "totalBank": "Total Bank",
+    "costCenter": "Cost Center",
+    "moreDetails": "More Details",
+    "sortBy": "Sort By",
+    "theMostUsed": "The Most Used",
+    "theLeastUsed": "The Least Used",
+    "revenueStream": "Revenue Stream",
+    "revenue": "Revenue",
+    "expenses": "Expenses",
+    "grossProfit": "Gross Profit",
+    "accounts": "Accounts",
+    "noAccounts": "No Accounts"
+  }
+}

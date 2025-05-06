@@ -1,0 +1,36 @@
+{
+  "dir": "ltr",
+  "language": "English",
+  "common": {
+    "welcome": "Welcome",
+    "id": "ID",
+    "name": "Name",
+    "code": "Code",
+    "shortName": "Short Name",
+    "actions": {
+      "discard": "Discard",
+      "save": "Save"
+    }
+  },
+  "bank": {
+    "pageTitle": "Banks",
+    "bankName": "Bank Name"
+  },
+  "treasury": {
+    "pageTitle": "Treasury",
+    "treasuryName": "Treasury Name"
+  },
+  "adminPortal": {
+    "tax": {
+      "list": "Tax List",
+      "operationalTagList": "Operational Tag Tax List"
+    },
+    "contentManagement": {
+      "title": "Title",
+      "sefName": "SEO-Friendly Name",
+      "isDraft": "Is Draft",
+      "description": "Description",
+      "content": "Content"
+    }
+  }
+}

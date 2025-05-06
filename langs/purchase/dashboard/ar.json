@@ -1,0 +1,13 @@
+{
+  "dashboard":{
+    "moreDetails": "مزيد من التفاصيل",
+    "purchaseStatus": "حالة الشراء",
+    "returnPurchaseStatus": "حالة إرجاع الشراء",
+    "monthlyPurchases": "المشتريات الشهرية",
+    "mostPurchasedProducts": "المنتجات الأكثر شراء",
+    "mostPurchasedCategories": "الأصناف الأكثر شراء",
+    "topVendors": "أفضل الموردين",
+    "VendorReport": "تقرير البائع"
+  }
+
+}

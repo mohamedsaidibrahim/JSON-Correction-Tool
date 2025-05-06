@@ -1,0 +1,12 @@
+{
+  "dashboard": {
+    "salesStatus": "Sales Status",
+    "returnSalesStatus": "Return Sales Status",
+    "monthlySales": "Monthly Sales",
+    "bestSellingProducts": "Best Selling Products",
+    "bestSellingCategories": "Best Selling Categories",
+    "topCustomers": "Top Customers",
+    "topSalesPersons": "Top Sales Persons",
+    "moreDetails": "More Details"
+  }
+}

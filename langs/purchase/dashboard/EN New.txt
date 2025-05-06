@@ -1,0 +1,12 @@
+{
+  "dashboard": {
+    "moreDetails": "More Details",
+    "purchaseStatus": "Purchase Status",
+    "returnPurchaseStatus": "Returns Status",
+    "monthlyPurchases": "Monthly Purchases",
+    "mostPurchasedProducts": "Top Products",
+    "mostPurchasedCategories": "Top Categories",
+    "topVendors": "Top Vendors",
+    "vendorReport": "Vendor Performance Report"
+  }
+}

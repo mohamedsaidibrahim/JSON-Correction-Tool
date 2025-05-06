@@ -1,0 +1,13 @@
+{
+  "Title": "Title",
+  "Titles": "Add Business Owner",
+  "Toaster": {
+    "Confirm": {
+      "Title": "Are you sure?",
+      "Text": "You won't be able to revert this!",
+      "ConfirmButtonTextToDelete": "Yes, delete it!",
+      "CancelButtonText": "Cancel",
+      "ConfirmButtonTextToChangeStatus": "Yes"
+    }
+  }
+}

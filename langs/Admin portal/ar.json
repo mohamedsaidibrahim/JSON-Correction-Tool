@@ -1,0 +1,49 @@
+{
+  "Title": "Title",
+  "Toaster": {
+    "Confirm": {
+      "Title": "هل أنت متأكد؟",
+      "Text": "لا يمكنك الرجوع في هذا القرار!",
+      "ConfirmButtonTexttodelete": "نعم، قم بالحذف!",
+      "CancelButtonText": "إلغاء",
+      "ConfirmButtonTexttochangstatus": "نعم"
+    }
+  },
+  "validation": {
+    "invalidForm": "الرجاء إكمال جميع الحقول المطلوبة",
+    "invalidOnlySaudiId": "يسمح بإدخال هوية مواطن فقط",
+    "invalidIqamaiId": "رقم الإقامة غير صحيح",
+    "invalidSaudiId": "الرجاء التحقق من رقم الهوية / الإقامة",
+    "email": "البريد الإلكتروني غير صحيح",
+    "mobile": "رقم الهاتف غير صحيح",
+    "minLength": "الحد الأدنى المسموح به هو",
+    "maxLength": "الحد الأقصى المسموح به هو",
+    "required": "الحقل مطلوب",
+    "noScript": "لا يُسمح بالسكربت في هذا الحقل",
+    "onlyArabic": "الحقل يقبل الحروف العربية فقط",
+    "onlyEnglish": "الحقل يقبل الحروف الإنجليزية فقط",
+    "pattern": "خطأ في الإدخال",
+    "emailPattern": "البريد الإلكتروني غير صحيح، الرجاء الإدخال بالصيغة التالية: ABC@cba.com",
+    "invalidMax": "لا يُسمح بقيمة أكبر من",
+    "invalidMin": "لا يُسمح بقيمة أقل من",
+    "hasSpecialChars": "لا يُسمح بالحروف الخاصة",
+    "hasWhiteSpaces": "لا يُسمح بالمسافات فقط",
+    "mobilePattern": "رقم الجوال غير صحيح، الرجاء الإدخال بالصيغة التالية: 05XXXXXXXX",
+    "mobilePrefixPattern": "رقم الجوال غير صحيح، الرجاء الإدخال بالصيغة التالية: +9665XXXXXXXX",
+    "mobileNationalPattern": "رقم الجوال غير صحيح، كحد أقصى 17 رقم، ويبدأ بـ 00، كالمثال التالي: 00XXXXXXXX",
+    "invalidUnifiedNumber": "الرجاء التأكد من إدخال الرقم الموحد للجهة بشكل صحيح. الرقم يتكون من 10 أرقام يبدأ برقم 7. مثال: 7xxxxxxxxx",
+    "invalidCRNumber": "الرجاء التأكد من إدخال رقم السجل التجاري للجهة بشكل صحيح. الرقم يتكون من 10 أرقام يبدأ برقم 1. مثال: 1xxxxxxxxx",
+    "invalidNumber": "مسموح بالأرقام فقط",
+    "specialCharPattern": "سلسلة غير صالحة، يجب ألا تحتوي على أحرف خاصة مثل: ~! @ # $٪ ^ & * () _ + <>؟ /",
+    "agreedToTermsRequired": "يجب الموافقة على إقرار تحمل مسؤولية صحة البيانات للاستمرار في إرسال الطلب",
+    "lengthRange": "يجب أن يكون الحد الأدنى للطول {{min}}، والحد الأقصى للطول {{max}}",
+    "invalidFileType": "نوع الملف غير مسموح به",
+    "zeroNotAllowed": "الصفر غير مسموح به",
+    "invalidBirthDate": "لا يمكن أن يكون تاريخ الميلاد في المستقبل",
+    "onlyLetters": "يُسمح فقط بالحروف",
+    "invalidage": "العمر غير مسموح",
+    "ageAbove": "يجب أن يكون عمرك على الأقل {{age}} عامًا",
+    "nonNegativeNumbers": "يجب أن يكون الرقم غير سالب",
+    "noAlphabeticCharacter": "يجب ألا يحتوي الحقل على أحرف أبجدية"
+  }
+}

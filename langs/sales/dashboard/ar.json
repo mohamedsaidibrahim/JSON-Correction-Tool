@@ -1,0 +1,12 @@
+{
+  "dashboard": {
+    "salesStatus": "حالة المبيعات",
+    "returnSalesStatus": "حالة المرتجعات",
+    "monthlySales": "المبيعات الشهرية",
+    "bestSellingProducts": "المنتجات الأكثر مبيعاً",
+    "bestSellingCategories": "التصنيفات الأكثر مبيعاً",
+    "topCustomers": "الزبائن الأكثر شراءاً",
+    "topSalesPersons": "الموظفين الأكثر مبيعاً",
+    "moreDetails": "المزيد من التفاصيل"
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "dashboard": {
+    "accountTypes": "انواع  الحسابات ",
+    "bankCashEquivalents": "حسابات النقدية والبنوك ومايعادلهم   ",
+    "status": "حالات قيد اليومية",
+    "journalSources": " انواع قيد اليومية",
+    "totalCash": "المجموع الكلي للخزائن",
+    "totalBank": "المجموع الكلي للبنك",
+    "costCenter": "مركز التكلفة الاكثر استخداما ",
+    "moreDetails": "المزيد من التفاصيل",
+    "sortBy": "ترتيب حسب",
+    "theMostUsed": "الاكثر استخداما",
+    "theLeastUsed": "الاقل استخداما",
+    "revenueStream": "تدفقات الايرادات",
+    "revenue": "ايرادات",
+    "expenses": "مصاريف",
+    "grossProfit": "مجمل الربح",
+    "accounts": "الحسابات الاكثر استخداما ",
+    "noAccounts": "لا يوجد حسابات"
+  }
+}
