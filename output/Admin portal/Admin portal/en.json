@@ -1,0 +1,22 @@
+{
+  "dir": "ltr",
+  "language": "English",
+  "common_welcome": "Welcome",
+  "common_id": "ID",
+  "common_name": "Name",
+  "common_code": "Code",
+  "common_shortName": "Short Name",
+  "common_actions_discard": "Discard",
+  "common_actions_save": "Save",
+  "bank_pageTitle": "Banks",
+  "bank_bankName": "Bank Name",
+  "treasury_pageTitle": "Treasury",
+  "treasury_treasuryName": "Treasury Name",
+  "adminPortal_tax_list": "Tax List",
+  "adminPortal_tax_operationalTagList": "Operational Tag Tax List",
+  "adminPortal_contentManagement_title": "Title",
+  "adminPortal_contentManagement_sefName": "SEO-Friendly Name",
+  "adminPortal_contentManagement_isDraft": "Is Draft",
+  "adminPortal_contentManagement_description": "Description",
+  "adminPortal_contentManagement_content": "Content"
+}

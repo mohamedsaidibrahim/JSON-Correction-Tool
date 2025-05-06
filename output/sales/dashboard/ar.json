@@ -1,0 +1,11 @@
+{
+  "dir": "rtl",
+  "dashboard_salesStatus": "حالة المبيعات",
+  "dashboard_returnSalesStatus": "حالة مرتجعات المبيعات",
+  "dashboard_monthlySales": "المبيعات الشهرية",
+  "dashboard_bestSellingProducts": "أكثر المنتجات مبيعاً",
+  "dashboard_bestSellingCategories": "أكثر الفئات مبيعاً",
+  "dashboard_topCustomers": "أفضل العملاء",
+  "dashboard_topSalesPersons": "أفضل مندوبي المبيعات",
+  "dashboard_moreDetails": "تفاصيل إضافية"
+}

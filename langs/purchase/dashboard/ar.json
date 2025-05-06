@@ -1,13 +1,13 @@
 {
-  "dashboard":{
+  "dir": "rtl",
+  "dashboard": {
     "moreDetails": "مزيد من التفاصيل",
-    "purchaseStatus": "حالة الشراء",
-    "returnPurchaseStatus": "حالة إرجاع الشراء",
+    "purchaseStatus": "حالة المشتريات",
+    "returnPurchaseStatus": "حالة المرتجعات",
     "monthlyPurchases": "المشتريات الشهرية",
-    "mostPurchasedProducts": "المنتجات الأكثر شراء",
-    "mostPurchasedCategories": "الأصناف الأكثر شراء",
-    "topVendors": "أفضل الموردين",
-    "VendorReport": "تقرير البائع"
+    "mostPurchasedProducts": "أكثر المنتجات مبيعاً",
+    "mostPurchasedCategories": "أكثر الأصناف مبيعاً",
+    "topVendors": "أهم الموردين",
+    "vendorReport": "تقرير أداء الموردين"
   }
-
 }

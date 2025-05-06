@@ -1,0 +1,11 @@
+{
+  "dir": "rtl",
+  "dashboard_moreDetails": "مزيد من التفاصيل",
+  "dashboard_purchaseStatus": "حالة المشتريات",
+  "dashboard_returnPurchaseStatus": "حالة المرتجعات",
+  "dashboard_monthlyPurchases": "المشتريات الشهرية",
+  "dashboard_mostPurchasedProducts": "أكثر المنتجات مبيعاً",
+  "dashboard_mostPurchasedCategories": "أكثر الأصناف مبيعاً",
+  "dashboard_topVendors": "أهم الموردين",
+  "dashboard_vendorReport": "تقرير أداء الموردين"
+}

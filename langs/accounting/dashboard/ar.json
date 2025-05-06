@@ -1,21 +1,21 @@
 {
   "dashboard": {
-    "accountTypes": "انواع  الحسابات ",
-    "bankCashEquivalents": "حسابات النقدية والبنوك ومايعادلهم   ",
-    "status": "حالات قيد اليومية",
-    "journalSources": " انواع قيد اليومية",
-    "totalCash": "المجموع الكلي للخزائن",
-    "totalBank": "المجموع الكلي للبنك",
-    "costCenter": "مركز التكلفة الاكثر استخداما ",
-    "moreDetails": "المزيد من التفاصيل",
-    "sortBy": "ترتيب حسب",
-    "theMostUsed": "الاكثر استخداما",
-    "theLeastUsed": "الاقل استخداما",
-    "revenueStream": "تدفقات الايرادات",
-    "revenue": "ايرادات",
-    "expenses": "مصاريف",
-    "grossProfit": "مجمل الربح",
-    "accounts": "الحسابات الاكثر استخداما ",
-    "noAccounts": "لا يوجد حسابات"
+    "accountTypes": "أنواع الحسابات",
+    "bankCashEquivalents": "النقدية والبنوك وما يعادلها",
+    "status": "حالات القيود اليومية",
+    "journalSources": "مصادر القيود اليومية",
+    "totalCash": "إجمالي الخزائن",
+    "totalBank": "إجمالي البنوك",
+    "costCenter": "مراكز التكلفة الأكثر استخداماً",
+    "moreDetails": "تفاصيل إضافية",
+    "sortBy": "فرز حسب",
+    "theMostUsed": "الأكثر استخداماً",
+    "theLeastUsed": "الأقل استخداماً",
+    "revenueStream": "تدفقات الإيرادات",
+    "revenue": "الإيرادات",
+    "expenses": "المصروفات",
+    "grossProfit": "إجمالي الربح",
+    "accounts": "الحسابات الأكثر استخداماً",
+    "noAccounts": "لا توجد حسابات"
   }
 }

@@ -1,0 +1,22 @@
+{
+  "dir": "rtl",
+  "language": "العربية",
+  "common_welcome": "مرحبًا",
+  "common_id": "الرقم",
+  "common_name": "الاسم",
+  "common_code": "الكود",
+  "common_shortName": "الاسم المختصر",
+  "common_actions_discard": "تجاهل",
+  "common_actions_save": "حفظ",
+  "bank_pageTitle": "البنوك",
+  "bank_bankName": "اسم البنك",
+  "treasury_pageTitle": "الخزينة",
+  "treasury_treasuryName": "اسم الخزينة",
+  "adminPortal_tax_list": "قائمة الضرائب",
+  "adminPortal_tax_operationalTagList": "قائمة ضريبة الوسم التشغيلي",
+  "adminPortal_contentManagement_title": "العنوان",
+  "adminPortal_contentManagement_sefName": "اسم مُحسّن لمحركات البحث",
+  "adminPortal_contentManagement_isDraft": "مسودة",
+  "adminPortal_contentManagement_description": "الوصف",
+  "adminPortal_contentManagement_content": "المحتوى"
+}

@@ -1,0 +1,20 @@
+{
+  "dashboard_stockOverview": "Stock Overview",
+  "dashboard_categories": "Categories",
+  "dashboard_warehouses": "Warehouses",
+  "dashboard_Status": "Transactions Status",
+  "dashboard_lastStockOut": "Last Stock Out",
+  "dashboard_lastStockIn": "Last Stock In",
+  "dashboard_stockExpiryAlert": "Stock Expiry Alert",
+  "dashboard_moreDetails": "More Details",
+  "dashboard_status": "Transactions Status",
+  "dashboard_totalQuantity": "Total Quantity",
+  "dashboard_totalValue": "Total Value",
+  "dashboard_noElements": "No Elements",
+  "dashboard_tooltip_categories": "Most Item Categories have Quantities",
+  "dashboard_tooltip_warehouses": "Most Warehouses have Quantities",
+  "dashboard_tooltip_status": "Status of Transactions between draft, saved, posted",
+  "dashboard_tooltip_lastStockOut": "Represent last stock out transactions Quantity and its values",
+  "dashboard_tooltip_lastStockIn": "Represent last stock in transactions Quantity and its values",
+  "dashboard_tooltip_expiration": "items nearby expiry with tracking number"
+}

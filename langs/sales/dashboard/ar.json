@@ -1,12 +1,13 @@
 {
+  "dir": "rtl",
   "dashboard": {
     "salesStatus": "حالة المبيعات",
-    "returnSalesStatus": "حالة المرتجعات",
+    "returnSalesStatus": "حالة مرتجعات المبيعات",
     "monthlySales": "المبيعات الشهرية",
-    "bestSellingProducts": "المنتجات الأكثر مبيعاً",
-    "bestSellingCategories": "التصنيفات الأكثر مبيعاً",
-    "topCustomers": "الزبائن الأكثر شراءاً",
-    "topSalesPersons": "الموظفين الأكثر مبيعاً",
-    "moreDetails": "المزيد من التفاصيل"
+    "bestSellingProducts": "أكثر المنتجات مبيعاً",
+    "bestSellingCategories": "أكثر الفئات مبيعاً",
+    "topCustomers": "أفضل العملاء",
+    "topSalesPersons": "أفضل مندوبي المبيعات",
+    "moreDetails": "تفاصيل إضافية"
   }
 }

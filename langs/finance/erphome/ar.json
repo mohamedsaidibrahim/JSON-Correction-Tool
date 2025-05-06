@@ -212,10 +212,10 @@
     "Password": "كلمة المرور",
     "ConfirmPassword": "تأكيد كلمة المرور",
     "policy": "أنا أوافق على سياسة المستخدم",
-    "Save": "حفظ"
-    "photo":"الصورة"
+    "Save": "حفظ",
+    "photo":"الصورة"},
 
-{
+
   "AppStore": {
     "AddedToCartSuccessfully": "تم إضافة المنتج إلى السلة بنجاح",
     "CheckedOut": "تم إتمام الشراء بنجاح"
@@ -355,8 +355,5 @@
     "AddNewLine": "إضافة سطر جديد",
     "error": "يجب ألا تتجاوز نسبة الحساب 100",
     "CostCenterAllocation": "تخصيص مركز التكلفة"
-  }
-}
-
   }
 }

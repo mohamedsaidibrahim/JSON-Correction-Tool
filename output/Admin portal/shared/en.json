@@ -1,0 +1,15 @@
+{
+  "dir": "ltr",
+  "Submit": "Submit",
+  "Export": "Export",
+  "Error": "Error",
+  "AdminPortal_TaxList": "Tax List",
+  "AdminPortal_OperationalTagTaxList": "Operational Tag Tax List",
+  "AdminPortal_title": "Title",
+  "AdminPortal_sefName": "SEO-Friendly Name",
+  "AdminPortal_isDraft": "Is Draft",
+  "AdminPortal_description": "Description",
+  "AdminPortal_content": "Content",
+  "AdminPortal_discard": "Discard",
+  "AdminPortal_save": "Save"
+}

@@ -81,7 +81,7 @@
   "discard": "تجاهل",
   "save": "حفظ",
 
-{
+
   "EditJournal": {
     "JournalCode": "كود اليومية",
     "JournalStatus": "حالة اليومية",
@@ -317,5 +317,3 @@
   "Actions": "الإجراءات"
 }
 
-  ...
-}

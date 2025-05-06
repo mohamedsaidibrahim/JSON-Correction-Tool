@@ -1,21 +1,21 @@
 {
   "dashboard": {
     "accountTypes": "Account Types",
-    "bankCashEquivalents": "Bank, Cash and Equivalents",
-    "status": "Journal Status",
-    "journalSources": "Journal Sources",
-    "totalCash": "Total Cash",
-    "totalBank": "Total Bank",
-    "costCenter": "Cost Center",
-    "moreDetails": "More Details",
+    "bankCashEquivalents": "Cash, Banks & Equivalents",
+    "status": "Journal Entry Status",
+    "journalSources": "Journal Entry Sources",
+    "totalCash": "Total Cash Balance",
+    "totalBank": "Total Bank Balance",
+    "costCenter": "Most Active Cost Centers",
+    "moreDetails": "View Details",
     "sortBy": "Sort By",
-    "theMostUsed": "The Most Used",
-    "theLeastUsed": "The Least Used",
-    "revenueStream": "Revenue Stream",
+    "theMostUsed": "Most Frequently Used",
+    "theLeastUsed": "Least Frequently Used",
+    "revenueStream": "Revenue Streams",
     "revenue": "Revenue",
-    "expenses": "Expenses",
-    "grossProfit": "Gross Profit",
-    "accounts": "Accounts",
-    "noAccounts": "No Accounts"
+    "expenses": "Expenditures",
+    "grossProfit": "Gross Profit Margin",
+    "accounts": "Frequently Used Accounts",
+    "noAccounts": "No Accounts Found"
   }
 }

@@ -1,0 +1,19 @@
+{
+  "dashboard_accountTypes": "Account Types",
+  "dashboard_bankCashEquivalents": "Cash, Banks & Equivalents",
+  "dashboard_status": "Journal Entry Status",
+  "dashboard_journalSources": "Journal Entry Sources",
+  "dashboard_totalCash": "Total Cash Balance",
+  "dashboard_totalBank": "Total Bank Balance",
+  "dashboard_costCenter": "Most Active Cost Centers",
+  "dashboard_moreDetails": "View Details",
+  "dashboard_sortBy": "Sort By",
+  "dashboard_theMostUsed": "Most Frequently Used",
+  "dashboard_theLeastUsed": "Least Frequently Used",
+  "dashboard_revenueStream": "Revenue Streams",
+  "dashboard_revenue": "Revenue",
+  "dashboard_expenses": "Expenditures",
+  "dashboard_grossProfit": "Gross Profit Margin",
+  "dashboard_accounts": "Frequently Used Accounts",
+  "dashboard_noAccounts": "No Accounts Found"
+}

@@ -1,0 +1,19 @@
+{
+  "dashboard_accountTypes": "أنواع الحسابات",
+  "dashboard_bankCashEquivalents": "النقدية والبنوك وما يعادلها",
+  "dashboard_status": "حالات القيود اليومية",
+  "dashboard_journalSources": "مصادر القيود اليومية",
+  "dashboard_totalCash": "إجمالي الخزائن",
+  "dashboard_totalBank": "إجمالي البنوك",
+  "dashboard_costCenter": "مراكز التكلفة الأكثر استخداماً",
+  "dashboard_moreDetails": "تفاصيل إضافية",
+  "dashboard_sortBy": "فرز حسب",
+  "dashboard_theMostUsed": "الأكثر استخداماً",
+  "dashboard_theLeastUsed": "الأقل استخداماً",
+  "dashboard_revenueStream": "تدفقات الإيرادات",
+  "dashboard_revenue": "الإيرادات",
+  "dashboard_expenses": "المصروفات",
+  "dashboard_grossProfit": "إجمالي الربح",
+  "dashboard_accounts": "الحسابات الأكثر استخداماً",
+  "dashboard_noAccounts": "لا توجد حسابات"
+}

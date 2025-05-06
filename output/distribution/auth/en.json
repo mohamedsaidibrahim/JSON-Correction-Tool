@@ -1,0 +1,9 @@
+{
+  "Title": "Title",
+  "Titles": "Add Business Owner",
+  "Toaster_Confirm_Title": "Are you sure?",
+  "Toaster_Confirm_Text": "You won't be able to revert this!",
+  "Toaster_Confirm_ConfirmButtonTextToDelete": "Yes, delete it!",
+  "Toaster_Confirm_CancelButtonText": "Cancel",
+  "Toaster_Confirm_ConfirmButtonTextToChangeStatus": "Yes"
+}

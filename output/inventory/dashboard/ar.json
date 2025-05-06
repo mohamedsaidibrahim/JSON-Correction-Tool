@@ -1,0 +1,20 @@
+{
+  "dashboard_stockOverview": "نظرة عامة على المخزون",
+  "dashboard_categories": "الفئات",
+  "dashboard_warehouses": "المستودعات",
+  "dashboard_Status": "حالة المعاملات",
+  "dashboard_lastStockOut": "آخر إصدار من المخزون",
+  "dashboard_lastStockIn": "آخر إدراج في المخزون",
+  "dashboard_stockExpiryAlert": "تنبيه انتهاء صلاحية المخزون",
+  "dashboard_moreDetails": "تفاصيل إضافية",
+  "dashboard_status": "حالة المعاملات",
+  "dashboard_totalQuantity": "إجمالي الكمية",
+  "dashboard_totalValue": "إجمالي القيمة",
+  "dashboard_noElements": "لا توجد عناصر",
+  "dashboard_tooltip_categories": "تعرض الفئات الكميات المتاحة",
+  "dashboard_tooltip_warehouses": "تعرض المستودعات الكميات المتاحة",
+  "dashboard_tooltip_status": "حالة المعاملات: مسودة، محفوظة، منتهية",
+  "dashboard_tooltip_lastStockOut": "يعرض آخر إصدار من المخزون (الكمية والقيمة)",
+  "dashboard_tooltip_lastStockIn": "يعرض آخر إدراج في المخزون (الكمية والقيمة)",
+  "dashboard_tooltip_expiration": "العناصر القريبة من انتهاء الصلاحية"
+}
